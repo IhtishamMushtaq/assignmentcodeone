@@ -1,0 +1,79 @@
+{
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+  }
+  /* common styles */
+  
+  h2 {
+    font-size: 1.2rem;
+  }
+  /* join our community styles */
+  .joc {
+    /* background-color: snow; */
+    border-radius: 7px;
+  }
+  .joc h1 {
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 1.3rem;
+  }
+  .joc h2 {
+    color: hsla(71, 73%, 54%, 0.856);
+  
+  }
+  .joc p {
+    max-width: 95%;
+    color: rgb(172, 171, 171);
+  }
+  .ms {
+    background-color: hsl(179, 62%, 43%);
+    color: white;
+  } 
+  .whyus {
+    background-color: hsl(179, 62%, 43%);
+    border-radius: 7px;
+    margin-top: 0;
+    padding-top: 0px;
+    color: white;
+  }
+  .ms h2 {
+
+    padding-top: 1.3em;
+    margin-bottom: 1.3em;
+  }
+  span {
+  margin-right: 0.3px;
+  font-size: 1.7rem;
+
+  }
+  button {
+
+    "background: hsl(71, 73%, 54%);
+     color:#fff; position: left:20px;
+     padding-left:80px;
+     padding-right:80px;
+     position: relative;
+     left:68px;
+     padding-top:12px;
+     padding-bottom:12px;
+     border-radius:10px;
+
+  }
+  .ms {
+padding-left: 10px;
+
+  }
+  .ul {
+      padding-top: 1.3rem;
+      padding-bottom: 1.3rem;
+  }
+  .whyus h2 {
+      padding-top: 1.5rem;
+  }
+  .whyus {
+
+    padding-top: 0px;
+  }
